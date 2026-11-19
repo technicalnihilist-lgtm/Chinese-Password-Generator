@@ -2,11 +2,11 @@
 
 <img src="assets/icon.png" width="96" height="96" alt="福运密码 · Fortune Password icon">
 
-<img src="assets/banner.svg" alt="福运密码 · Fortune Password — an offline password generator for Android and the web with Chinese 福…">
+<img src="assets/banner.svg" alt="福运密码 · Fortune Password">
 
 <a href="https://github.com/technicalnihilist-lgtm/Chinese-Password-Generator/stargazers"><img src="https://img.shields.io/badge/stars-0-5A31F4?style=for-the-badge&logo=github&logoColor=white" alt="stars: 0"></a>&nbsp;<a href="https://github.com/technicalnihilist-lgtm/Chinese-Password-Generator/network/members"><img src="https://img.shields.io/badge/forks-0-3FB950?style=for-the-badge" alt="forks: 0"></a>
 
-<a href="https://github.com/technicalnihilist-lgtm/Chinese-Password-Generator/releases/latest"><img src="https://img.shields.io/badge/DOWNLOAD-APK-6D5AE6?style=for-the-badge&logo=android&logoColor=white" alt="Download APK"></a>
+<a href="https://github.com/technicalnihilist-lgtm/Chinese-Password-Generator/releases/latest/download/fortune-password-1.0.0.apk"><img src="https://img.shields.io/badge/DOWNLOAD-APK-6D5AE6?style=for-the-badge&logo=android&logoColor=white" alt="Download APK"></a> <a href="https://technicalnihilist-lgtm.github.io/apps-site/apps/Chinese-Password-Generator.html"><img src="https://img.shields.io/badge/WEBSITE-OPEN-3B82F6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"></a>
 
 <b>Support the work</b>
 
